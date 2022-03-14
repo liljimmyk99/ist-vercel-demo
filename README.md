@@ -1,4 +1,4 @@
-# ist-vercel-demo
+# ist-vercel-demo jimbo
 
 This is a repo that has some examples of how to use vercel endpoints to pipe data in from a data endpoint.
 Vercel is an interesting way of being able to ship web components in a way that come with a backend
